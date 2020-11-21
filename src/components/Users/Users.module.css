@@ -1,0 +1,41 @@
+.usersWrapper {
+    margin-left: 12%;
+    margin-bottom: 70px;
+}
+
+.usersPhoto {
+    height: 140px;
+    margin-left: 10%;
+    margin-top: 5px;
+    display: inline-block;
+    padding-bottom: 3px;
+}
+
+.usersInfo {
+    display: inline-block;
+    margin-left: 10%;
+    padding-bottom: 7px;
+
+}
+
+.contacts {
+    margin-left: 10%;
+
+
+}
+
+.usersPageStyle {
+
+margin-left: 38%;
+
+
+}
+
+.buttonFollow {
+    margin-left: 12%;
+    margin-bottom: 10px;
+
+}
+.selectedPage {
+    font-weight: bold;
+}

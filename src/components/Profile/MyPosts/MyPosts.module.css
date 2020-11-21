@@ -1,0 +1,18 @@
+.postsBlock {
+    padding: 10px;
+    margin-left: 30%;
+}
+.postsHeader {
+    color: darkblue;
+    display: flex;
+    justify-content: center;
+}
+
+.posts {
+    margin-top: 10px;
+}
+
+.formInput {
+    width:30%;
+    border-radius:10px;
+}

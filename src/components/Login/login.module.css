@@ -1,0 +1,13 @@
+.loginBlock {
+ /*   margin-left:30%;*/
+}
+
+.loginHeader {
+    color: darkblue;
+    display: flex;
+    justify-content: center;
+}
+
+.loginButton {
+    margin-left:60%;
+}

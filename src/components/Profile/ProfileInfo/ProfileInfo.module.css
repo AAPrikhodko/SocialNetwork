@@ -1,0 +1,11 @@
+.descriptionBlock {
+
+    margin-left: 15%;
+    padding: 10px;
+    align-items: end;
+    display: flex;
+}
+
+.profileImage {
+    margin-right: 5%;
+}

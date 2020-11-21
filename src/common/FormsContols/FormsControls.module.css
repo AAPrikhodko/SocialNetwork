@@ -1,0 +1,29 @@
+.formControl.error textarea
+.formControl.error input,
+{
+    border: solid red 2px;
+    margin-left: 40%;
+}
+
+.formControl.error span
+{
+    color: red;
+    margin-left: 40%;
+}
+
+.formInput {
+    width:50%;
+    padding:15px;
+    border-radius:15px;
+    box-shadow:4px 4px 10px rgba(0,0,0,0.06);
+    height:1%;
+}
+
+.formInputLogin {
+    width:20%;
+    padding:15px;
+    border-radius:15px;
+    box-shadow:4px 4px 10px rgba(0,0,0,0.06);
+    height:5px;
+    margin-left: 40%;
+}
